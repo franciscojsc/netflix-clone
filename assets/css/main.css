@@ -48,3 +48,18 @@ header nav a:hover {
   margin-bottom: 40px;
   font-size: 18px;
 }
+
+.filme-principal .botoes .botao {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: #fff;
+  padding: 15px 30px;
+  margin-right: 15px;
+  cursor: pointer;
+  transition: background-color 1s ease, color 1s ease;
+}
+
+.filme-principal .botoes .botao:hover {
+  background-color: rgb(233, 230, 230);
+  color: black;
+}
