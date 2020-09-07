@@ -1,6 +1,7 @@
 body {
   background-color: var(--preta);
   font-family: "Times New Roman", Times, serif;
+  color: #fff;
 }
 
 header .container {
@@ -26,4 +27,24 @@ header nav a {
 
 header nav a:hover {
   color: #fff;
+}
+
+.filme-principal {
+  font-size: 16px;
+  background-image: url("../img/background-files-x.jpg");
+  background-size: cover;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.filme-principal .titulo {
+  font-size: 40px;
+}
+
+.filme-principal .descricao {
+  margin-bottom: 40px;
+  font-size: 18px;
 }
