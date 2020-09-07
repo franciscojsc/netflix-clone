@@ -63,3 +63,7 @@ header nav a:hover {
   background-color: rgb(233, 230, 230);
   color: black;
 }
+
+.filme-principal .botoes .botao i {
+  margin-right: 10px;
+}
