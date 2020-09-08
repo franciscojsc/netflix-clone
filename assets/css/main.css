@@ -36,7 +36,8 @@ header nav a:hover {
 
 .filme-principal {
   font-size: 16px;
-  background-image: url("../img/background-files-x.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) 100%),
+    url("../img/background-files-x.jpg");
   background-size: cover;
   height: 450px;
   display: flex;
