@@ -98,3 +98,9 @@ header nav a:hover {
 .rodape img {
   width: 200px;
 }
+
+.rodape a,
+.rodape a:visited {
+  color: yellow;
+  text-decoration: none;
+}
