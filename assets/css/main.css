@@ -67,3 +67,14 @@ header nav a:hover {
 .filme-principal .botoes .botao i {
   margin-right: 10px;
 }
+
+.carrosel-filmes {
+  margin-top: 5px;
+}
+
+.carrosel-filmes .box-filme {
+  height: 100%;
+  width: 100%;
+  display: block;
+  cursor: pointer;
+}
