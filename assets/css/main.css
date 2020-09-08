@@ -85,3 +85,16 @@ header nav a:hover {
   display: block;
   cursor: pointer;
 }
+
+.rodape {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(51, 50, 50);
+  margin-top: 20px;
+}
+
+.rodape img {
+  width: 200px;
+}
