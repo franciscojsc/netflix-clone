@@ -61,6 +61,7 @@ header nav a:hover {
   color: #fff;
   padding: 15px 30px;
   margin-right: 15px;
+  margin-top: 5px;
   cursor: pointer;
   transition: background-color 1s ease, color 1s ease;
 }
